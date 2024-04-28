@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DragonCarpet.label>피닉스 카펫</DragonCarpet.label>
+  <DragonCarpet.description>피닉스 가죽으로 만든 카펫은 촉감이 따뜻하고 어둠 속에서도 약간 빛이 납니다!</DragonCarpet.description>
+
+  <KirinCarpet.label>양탄자 용기린</KirinCarpet.label>
+  <KirinCarpet.description>두꺼운 모피가 방을 완벽하게 장식합니다. 이 모피를 추출하는 과정에서 얼마나 많은 사람이 죽었는지 기억나지 않는다면!</KirinCarpet.description>
+
+  <GrindragonCarpet.label>양탄자 와이번 </GrindragonCarpet.label>
+  <GrindragonCarpet.description>유럽의 용을 연상시키는 신화 속의 생물이지만 다리가 한 쌍뿐이어서 종종 구불구불한 꼬리로 묘사되며 네발 달린 용과 달리 불을 뿜는 경우는 거의 없습니다. 용은 와이번과 가장 유사합니다.</GrindragonCarpet.description>
+
+  <BehirCarpet.label>양탄자 베히르</BehirCarpet.label>
+  <BehirCarpet.description>무서운 괴물의 가죽으로 만든 카펫!</BehirCarpet.description>
+
+  <BagestCarpet.label>양탄자 바르게스트</BagestCarpet.label>
+  <BagestCarpet.description>소름 끼치는 생물이 잘못된 식민지에 도착했습니다. 이제 그녀는 식민지의 장식입니다</BagestCarpet.description>
+
+  <TrumbCarpet.label>양탄자 트럼보 </TrumbCarpet.label>
+  <TrumbCarpet.description>엉뚱한 콜로니에 살게 된 거대 생명체, 이제 그 털로 콜로니를 장식하다</TrumbCarpet.description>
+
+
+</LanguageData>

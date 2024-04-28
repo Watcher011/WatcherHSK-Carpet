@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WallLights -->
+
+  <HeadBarghestWall.label>Cabeça troféu de Barghest</HeadBarghestWall.label>
+  <HeadBarghestWall.description>Cabeça troféu de um monstro derrotado</HeadBarghestWall.description>
+
+  <HeadBehirtWall.label>Cabeça troféu de Bekhir</HeadBehirtWall.label>
+  <HeadBehirtWall.description>Cabeça troféu de um monstro derrotado</HeadBehirtWall.description>
+
+  <HeadKirinWall.label>Cabeça troféu de Kirin</HeadKirinWall.label>
+  <HeadKirinWall.description>Cabeça troféu de um monstro derrotado</HeadKirinWall.description>
+
+  <WyvernHeadWall.label>Cabeça troféu de Wyvern</WyvernHeadWall.label>
+  <WyvernHeadWall.description>Cabeça troféu de um monstro derrotado</WyvernHeadWall.description>
+
+  <ThrumboHeadWall.label>Cabeça troféu de Trumbo</ThrumboHeadWall.label>
+  <ThrumboHeadWall.description>Cabeça troféu de um monstro derrotado</ThrumboHeadWall.description>
+
+  <FeenixHeadWall.label>Cabeça troféu de Feenix</FeenixHeadWall.label>
+  <FeenixHeadWall.description>Cabeça troféu de um monstro derrotado</FeenixHeadWall.description>
+
+
+</LanguageData>

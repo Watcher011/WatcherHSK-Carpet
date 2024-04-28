@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--======================================WallLights======================================-->
+
+<ThingDef ParentName="SK_LampBase">
+		<defName>HeadBarghestWall</defName>
+		<label>Trophy Head of Barghest</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/HeadBarghest</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconPath>Things/Furniture/Lights/HeadBarghest_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<BargestHead>1</BargestHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+	
+	<ThingDef ParentName="SK_LampBase">
+		<defName>HeadBehirtWall</defName>
+		<label>Trophy Head of Bekhir</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/HeadBehirt</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+			<uiIconPath>Things/Furniture/Lights/HeadBehirt_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<BehirHead>1</BehirHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+	
+	
+	<ThingDef ParentName="SK_LampBase">
+		<defName>HeadKirinWall</defName>
+		<label>Trophy Head of Kirin</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/KirinHead</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconPath>Things/Furniture/Lights/HeadKirin_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<KirinHead>1</KirinHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+	
+	
+	
+	<ThingDef ParentName="SK_LampBase">
+		<defName>WyvernHeadWall</defName>
+		<label>Trophy Wyvern Head</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/WyvernHead</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconPath>Things/Furniture/Lights/WyvernHead_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<WyvernHead>1</WyvernHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+	
+	
+	<ThingDef ParentName="SK_LampBase">
+		<defName>ThrumboHeadWall</defName>
+		<label>Trophy Head Trumbo</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/ThrumboHead</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconPath>Things/Furniture/Lights/ThrumboHead_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<ThrumboHead>1</ThrumboHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+	
+	
+	<ThingDef ParentName="SK_LampBase">
+		<defName>FeenixHeadWall</defName>
+		<label>Trophy Head Feenix</label>
+		<description>Trophy head of a defeated monster</description>
+		<thingClass>Building</thingClass>
+		<graphicData>
+			<texPath>Things/Furniture/Lights/FeenixHead</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1.0,2.0)</drawSize>
+			<drawRotated>true</drawRotated>
+			<allowFlip>true</allowFlip>
+		</graphicData>
+		<uiIconPath>Things/Furniture/Lights/FeenixHead_ico</uiIconPath>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+		<fillPercent>0.15</fillPercent>
+		<tickerType>Normal</tickerType>
+		<drawerType>RealtimeOnly</drawerType>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<statBases>
+			<WorkToBuild>80</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0</Flammability>
+			<Bulk>4</Bulk>
+			<Mass>2</Mass>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
+			<Beauty>8</Beauty>
+		</statBases>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+		<size>(1,1)</size>
+		<stuffCategories>
+			<li>Woody</li>
+			<li>Metallic</li>
+			<li>Precious</li>
+			<li>Ceramic</li>
+		</stuffCategories>
+		<costStuffCount>35</costStuffCount>
+		<costList>
+			<FeenixHead>1</FeenixHead>
+		</costList>
+		<surfaceType>Item</surfaceType>
+		<placeWorkers>
+			<li>SK.PlaceWorker_NotOnWall</li>
+			<li>SK.PlaceWorker_WallAttachment</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<uninstallWork>150</uninstallWork>
+			<isEdifice>false</isEdifice>
+			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<comps>
+			<li Class="SK.CompProperties_RestrictedPlacement">
+				<compClass>SK.CompRestrictedPlacement</compClass>
+			</li>
+		</comps>
+		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
+	</ThingDef>
+</Defs>

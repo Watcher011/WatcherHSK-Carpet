@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WallLights -->
+
+  <HeadBarghestWall.label>Трофейная голова Баргеста</HeadBarghestWall.label>
+  <HeadBarghestWall.description>Трофейная голова побежденного монстра</HeadBarghestWall.description>
+
+  <HeadBehirtWall.label>Трофейная голова Бехира</HeadBehirtWall.label>
+  <HeadBehirtWall.description>Трофейная голова побежденного монстра</HeadBehirtWall.description>
+
+  <HeadKirinWall.label>Трофейная голова Кирина</HeadKirinWall.label>
+  <HeadKirinWall.description>Трофейная голова побежденного монстра</HeadKirinWall.description>
+
+  <WyvernHeadWall.label>Трофейная голова Виверны</WyvernHeadWall.label>
+  <WyvernHeadWall.description>Трофейная голова побежденного монстра</WyvernHeadWall.description>
+
+  <ThrumboHeadWall.label>Трофейная голова Трумбо</ThrumboHeadWall.label>
+  <ThrumboHeadWall.description>Трофейная голова побежденного монстра</ThrumboHeadWall.description>
+
+  <FeenixHeadWall.label>Трофейная голова Финикса</FeenixHeadWall.label>
+  <FeenixHeadWall.description>Трофейная голова побежденного монстра</FeenixHeadWall.description>
+
+
+</LanguageData>
