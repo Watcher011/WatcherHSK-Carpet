@@ -884,7 +884,7 @@
 			<baseHealthScale>5.8</baseHealthScale>
 			<foodType>CarnivoreAnimal, CarnivoreAnimalStrict</foodType>
 			<useMeatFrom>Muffalo</useMeatFrom>
-			<leatherDef>Leather_Thrumbo</leatherDef>
+			<leatherDef>Leather_Behir</leatherDef>
 			<gestationPeriodDays>25</gestationPeriodDays>
 			<wildness>0.85</wildness>
 			<trainability>Advanced</trainability>
