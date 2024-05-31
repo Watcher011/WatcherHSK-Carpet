@@ -19,5 +19,11 @@
   <FeenixHead.label>Голова Феникса</FeenixHead.label>
   <FeenixHead.description>Невероятный трофей в виде отрубленной головы огненного дракона. Прикосновение к весам вызывает мысли о лавовых реках. Стеклянные глаза вызывают жуткость даже после смерти великана.</FeenixHead.description>
 
+  <LivingSun.label>Сердце Багеста</LivingSun.label>
+  <LivingSun.description>Живое сердце порождения тьмы, содержащее искры света.</LivingSun.description>
+
+  <PsyHeart.label>Сердце Бехира</PsyHeart.label>
+  <PsyHeart.description>Живое сердце бехира время от времени выпускает пси-импульс, этим, наверное, можно воспользоваться.</PsyHeart.description>
+
 
 </LanguageData>

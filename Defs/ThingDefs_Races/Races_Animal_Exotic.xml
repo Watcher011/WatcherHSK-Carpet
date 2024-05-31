@@ -938,6 +938,7 @@
 		</race>
 		          <butcherProducts>
 				   	<BehirHead>1</BehirHead>
+						<PsyHeart>1</PsyHeart>
                    </butcherProducts>
 		<modExtensions>
 			<li Class="CombatExtended.RacePropertiesExtensionCE">
@@ -1418,6 +1419,7 @@
 		</race>
 		           <butcherProducts>
 				   	<BargestHead>1</BargestHead>
+					<LivingSun>1</LivingSun>
                    </butcherProducts>
 		<modExtensions>
 			<li Class="CombatExtended.RacePropertiesExtensionCE">
@@ -1483,9 +1485,9 @@
 
   <ThingDef ParentName="AnimalThingBase">
     <defName>Thrumbo</defName>
-    <label>Трумбо</label>
+    <label>Thrumbo</label>
     <devNote>misc</devNote>
-    <description>Гигантское существо неизвестного происхождения. Трумбо мирные по своей природе, но чрезвычайно опасные, если их разозлить. Длинный мех трумбо исключительно красив и ценен, шкура плотна и устойчива к повреждениям, а бритвенно-острые рога и вовсе не имеют цены на большинстве рынков. Легенды гласят, что старые трумбо — самые мудрые существа во Вселенной, просто они предпочитают не разговаривать.</description>
+    <description>A giant creature of unknown origin. Thrumbos are peaceful by nature, but extremely dangerous if angered. The long fur of the trumbo is exceptionally beautiful and valuable, the skin is dense and resistant to damage, and the razor-sharp horns have no price at all in most markets. Legends say that old trumbos are the wisest creatures in the universe, they just prefer not to talk.</description>
     <statBases>
       <MoveSpeed>5.5</MoveSpeed>
       <MarketValue>4000</MarketValue>

@@ -20,5 +20,11 @@
   <FeenixHead.label>Cabeça de Phoenix</FeenixHead.label>
   <FeenixHead.description>Um troféu incrível na forma da cabeça decepada de um dragão de fogo. Tocar nas escamas dá origem a pensamentos sobre rios de lava. Os olhos vidrados são assustadores mesmo após a morte do gigante.</FeenixHead.description>
 
+  <LivingSun.label>Heart of baguest</LivingSun.label>
+  <LivingSun.description>The living heart of the creature of darkness that contains sparks of light.</LivingSun.description>
+
+  <PsyHeart.label>Behir's heart</PsyHeart.label>
+  <PsyHeart.description>The living heart of a behir, from time to time releases a psi impulse, this can probably be used.</PsyHeart.description>
+
 
 </LanguageData>

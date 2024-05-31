@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bio_Heater.label>BIO-Heater spark</Bio_Heater.label>
+  <Bio_Heater.description>Phoenix's heart, which is connected to a life support system, requires frequent replacement of the hematogen due to the difference in the amount of nutrients in the blood.</Bio_Heater.description>
+
+  <Bio_coller.label>BIO-ice cooler</Bio_coller.label>
+  <Bio_coller.description>Kirin's heart, which is connected to a life support system, due to the difference in the amount of nutrients in the blood, requires frequent replacement of the hematogen.</Bio_coller.description>
+
+  <Bio_Sun.label>BIO-Dawn lamp</Bio_Sun.label>
+  <Bio_Sun.description>Having studied a number of technologies, we managed to revive the heart of the baguest, over the years it has accumulated a huge amount of light in the heart, now we can use it. It is necessary to connect to a life support system; due to the difference in the amount of nutrients in the blood, frequent replacement of hematogen is required.</Bio_Sun.description>
+
+  <Bio_PSY.label>BIO-Psi resonator</Bio_PSY.label>
+  <Bio_PSY.description>Behir's heart that creates psionic resonance.</Bio_PSY.description>
+
+
+</LanguageData>

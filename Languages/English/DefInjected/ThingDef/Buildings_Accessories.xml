@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WallLights -->
+
+  <HeadBarghestWall.label>Trophy Head of Barghest</HeadBarghestWall.label>
+  <HeadBarghestWall.description>Trophy head of a defeated monster</HeadBarghestWall.description>
+
+  <HeadBehirtWall.label>Trophy Head of Bekhir</HeadBehirtWall.label>
+  <HeadBehirtWall.description>Trophy head of a defeated monster</HeadBehirtWall.description>
+
+  <HeadKirinWall.label>Trophy Head of Kirin</HeadKirinWall.label>
+  <HeadKirinWall.description>Trophy head of a defeated monster</HeadKirinWall.description>
+
+  <WyvernHeadWall.label>Trophy Wyvern Head</WyvernHeadWall.label>
+  <WyvernHeadWall.description>Trophy head of a defeated monster</WyvernHeadWall.description>
+
+  <ThrumboHeadWall.label>Trophy Head Trumbo</ThrumboHeadWall.label>
+  <ThrumboHeadWall.description>Trophy head of a defeated monster</ThrumboHeadWall.description>
+
+  <FeenixHeadWall.label>Trophy Head Feenix</FeenixHeadWall.label>
+  <FeenixHeadWall.description>Trophy head of a defeated monster</FeenixHeadWall.description>
+
+
+</LanguageData>

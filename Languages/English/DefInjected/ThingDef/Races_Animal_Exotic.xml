@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Feenix -->
+
+  <Feenix.label>Feenix</Feenix.label>
+  <Feenix.description>Said to be fire incarnate, a single Feenix can lay waste to an entire colony. The leave a trail of flames wherever they go. Their hearts will continue to pulse with heat even after the creature has died.</Feenix.description>
+  <Feenix.tools.0.label>Left claw</Feenix.tools.0.label>
+  <Feenix.tools.1.label>Right claw</Feenix.tools.1.label>
+  <Feenix.tools.3.label>head</Feenix.tools.3.label>
+
+
+  <!-- Wyvern -->
+
+  <GreenWyvern.label>green wyvern</GreenWyvern.label>
+  <GreenWyvern.description>A large, volatile draconic predator. Unlike true dragons, wyverns are capable of flight using their modified arms rather than distinct wing appendages.</GreenWyvern.description>
+  <GreenWyvern.tools.0.label>Left claw</GreenWyvern.tools.0.label>
+  <GreenWyvern.tools.1.label>Right claw</GreenWyvern.tools.1.label>
+  <GreenWyvern.tools.2.label>head</GreenWyvern.tools.2.label>
+
+  <Kirin.label>kirin</Kirin.label>
+  <Kirin.description>Born of frost, Misterious Kirin leave a trail of frost wherever they go. They are solitary creatures. Their fur and heart are highly prized on the rim worlds for their high insulation, and supposed medicinal usage.</Kirin.description>
+  <Kirin.tools.0.label>Left paw</Kirin.tools.0.label>
+  <Kirin.tools.1.label>Right paw</Kirin.tools.1.label>
+  <Kirin.tools.3.label>head</Kirin.tools.3.label>
+
+  <Behir.label>Behir</Behir.label>
+  <Behir.description>A behir is a huge blue serpentine magical beast with a crocodilian head; the creature is around forty feet long and weighs around four thousand pounds. They can run quickly on their twelve short, powerful legs, or slither by folding their legs close to their body.</Behir.description>
+  <Behir.tools.0.label>left leg claw</Behir.tools.0.label>
+  <Behir.tools.1.label>right leg claw</Behir.tools.1.label>
+  <Behir.tools.2.label>left claw</Behir.tools.2.label>
+  <Behir.tools.3.label>right claw</Behir.tools.3.label>
+  <Behir.tools.5.label>head</Behir.tools.5.label>
+
+  <FRaptor.label>feathered raptor</FRaptor.label>
+  <FRaptor.description>Quiet, cunning, elegant and ruthless, these protobird species were originally developed to resolve an increasing warg population problem. Someone quickly realized that adding another alpha predator doesn't help an already broken ecosystem, and the project was cancelled. Scientists then started a new development project that was aimed at making raptors the pets of rich people. Because of that, these raptors now have colorful feathers.</FRaptor.description>
+  <FRaptor.tools.0.label>left leg claw</FRaptor.tools.0.label>
+  <FRaptor.tools.1.label>right leg claw</FRaptor.tools.1.label>
+  <FRaptor.tools.2.label>left claw</FRaptor.tools.2.label>
+  <FRaptor.tools.3.label>right claw</FRaptor.tools.3.label>
+  <FRaptor.tools.5.label>head</FRaptor.tools.5.label>
+
+  <Barghest.label>barghest</Barghest.label>
+  <Barghest.description>A ghostly hound of lore, the sight of it is rumoured to foretell one's death.</Barghest.description>
+  <Barghest.tools.0.label>left claw</Barghest.tools.0.label>
+  <Barghest.tools.1.label>right claw</Barghest.tools.1.label>
+  <Barghest.tools.3.label>head</Barghest.tools.3.label>
+
+  <Thrumbo.label>Thrumbo</Thrumbo.label>
+  <Thrumbo.description>A giant creature of unknown origin. Thrumbos are peaceful by nature, but extremely dangerous if angered. The long fur of the trumbo is exceptionally beautiful and valuable, the skin is dense and resistant to damage, and the razor-sharp horns have no price at all in most markets. Legends say that old trumbos are the wisest creatures in the universe, they just prefer not to talk.</Thrumbo.description>
+  <Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
+  <Thrumbo.tools.2.label>left foot</Thrumbo.tools.2.label>
+  <Thrumbo.tools.3.label>right foot</Thrumbo.tools.3.label>
+  <Thrumbo.tools.4.label>head</Thrumbo.tools.4.label>
+
+
+</LanguageData>
