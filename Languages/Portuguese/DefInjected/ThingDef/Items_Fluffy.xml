@@ -20,11 +20,14 @@
   <FeenixHead.label>Cabeça de Phoenix</FeenixHead.label>
   <FeenixHead.description>Um troféu incrível na forma da cabeça decepada de um dragão de fogo. Tocar nas escamas dá origem a pensamentos sobre rios de lava. Os olhos vidrados são assustadores mesmo após a morte do gigante.</FeenixHead.description>
 
-  <LivingSun.label>Heart of baguest</LivingSun.label>
-  <LivingSun.description>The living heart of the creature of darkness that contains sparks of light.</LivingSun.description>
+  <LivingSun.label>Coração de baguest</LivingSun.label>
+  <LivingSun.description>O coração vivo da criatura das trevas que contém faíscas de luz.</LivingSun.description>
 
-  <PsyHeart.label>Behir's heart</PsyHeart.label>
-  <PsyHeart.description>The living heart of a behir, from time to time releases a psi impulse, this can probably be used.</PsyHeart.description>
+  <PsyHeart.label>O coração de Behir</PsyHeart.label>
+  <PsyHeart.description>TO coração vivo de um behir, de vez em quando libera um impulso psíquico, isso provavelmente pode ser usado.</PsyHeart.description>
+
+  <ToxHeart.label>O coração de Wyvern</ToxHeart.label>
+  <ToxHeart.description>O coração vivo de um Wyvern limpa a área de toxinas, provavelmente pode ser usado.</ToxHeart.description>
 
 
 </LanguageData>

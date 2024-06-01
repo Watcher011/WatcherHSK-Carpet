@@ -418,6 +418,7 @@
 		</race>
 		            <butcherProducts>
 				   	<WyvernHead>1</WyvernHead>
+						<ToxHeart>1</ToxHeart>
                    </butcherProducts>
 		<modExtensions>
 			<li Class="CombatExtended.RacePropertiesExtensionCE">

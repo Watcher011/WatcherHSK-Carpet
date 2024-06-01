@@ -14,5 +14,8 @@
   <Bio_PSY.label>BIO - Ressonador Psi</Bio_PSY.label>
   <Bio_PSY.description>O coração de Behir que cria ressonância psiônica.</Bio_PSY.description>
 
+  <Bio_cleaning.label>BIO - Limpeza</Bio_cleaning.label>
+  <Bio_cleaning.description>O coração de um wyvern pode limpar uma grande área de toxinas, mas leva tempo, devido à diferença na quantidade de nutrientes no sangue, requer reposição frequente do hematogênio.</Bio_cleaning.description>
+
 
 </LanguageData>

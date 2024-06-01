@@ -25,5 +25,8 @@
   <PsyHeart.label>Behir's heart</PsyHeart.label>
   <PsyHeart.description>The living heart of a behir, from time to time releases a psi impulse, this can probably be used.</PsyHeart.description>
 
+  <ToxHeart.label>Wyvern's heart</ToxHeart.label>
+  <ToxHeart.description>The living heart of a Wyvern, cleanses the area of ​​toxins, this can probably be used.</ToxHeart.description>
+
 
 </LanguageData>

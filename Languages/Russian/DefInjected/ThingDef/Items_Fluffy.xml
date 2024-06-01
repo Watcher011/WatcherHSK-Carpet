@@ -25,5 +25,8 @@
   <PsyHeart.label>Сердце Бехира</PsyHeart.label>
   <PsyHeart.description>Живое сердце бехира время от времени выпускает пси-импульс, этим, наверное, можно воспользоваться.</PsyHeart.description>
 
+  <ToxHeart.label>Сердце Виверны</ToxHeart.label>
+  <ToxHeart.description>Живое сердце Виверны, очищает местность от токсинов, возможно это можно использовать.</ToxHeart.description>
+
 
 </LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Feenix -->
+
+  <Feenix.label>Финикс</Feenix.label>
+  <Feenix.description>Говорят, что Феникс — воплощение огня, он может опустошить целую колонию. Куда бы они ни пошли, они оставляют огненный след. Их сердца будут продолжать пульсировать жаром даже после смерти существа.</Feenix.description>
+  <Feenix.tools.0.label>Левый коготь</Feenix.tools.0.label>
+  <Feenix.tools.1.label>Правый коготь</Feenix.tools.1.label>
+  <Feenix.tools.3.label>голова</Feenix.tools.3.label>
+
+
+  <!-- Wyvern -->
+
+  <GreenWyvern.label>Зеленая Виверна</GreenWyvern.label>
+  <GreenWyvern.description>Крупный дракон-хищник. В отличие от настоящих драконов, виверны способны летать, используя модифицированные руки, а не отдельные придатки крыльев.</GreenWyvern.description>
+  <GreenWyvern.tools.0.label>Левый коготь</GreenWyvern.tools.0.label>
+  <GreenWyvern.tools.1.label>Правый коготь</GreenWyvern.tools.1.label>
+  <GreenWyvern.tools.2.label>голова</GreenWyvern.tools.2.label>
+
+  <Kirin.label>Кирин</Kirin.label>
+  <Kirin.description>Рожденные морозом, Таинственные Кирин оставляют морозный след, куда бы они ни пошли. Это одиночные существа. Их мех и сердце высоко ценятся на окраинных мирах за их высокую изоляцию и предполагаемое использование в медицинских целях.</Kirin.description>
+  <Kirin.tools.0.label>Левая лапа</Kirin.tools.0.label>
+  <Kirin.tools.1.label>Правая лапа</Kirin.tools.1.label>
+  <Kirin.tools.3.label>голова</Kirin.tools.3.label>
+
+  <Behir.label>Бехир</Behir.label>
+  <Behir.description>Бехир — огромный синий змееподобный волшебный зверь с головой крокодила; длина существа составляет около сорока футов, а вес - около четырех тысяч фунтов. Они могут быстро бегать на своих двенадцати коротких, мощных ногах или скользить, сложив ноги близко к телу.</Behir.description>
+  <Behir.tools.0.label>коготь левой ноги</Behir.tools.0.label>
+  <Behir.tools.1.label>коготь правой ноги</Behir.tools.1.label>
+  <Behir.tools.2.label>левый коготь</Behir.tools.2.label>
+  <Behir.tools.3.label>правый коготь</Behir.tools.3.label>
+  <Behir.tools.5.label>голова</Behir.tools.5.label>
+
+  <FRaptor.label>feathered raptor</FRaptor.label>
+  <FRaptor.description>Quiet, cunning, elegant and ruthless, these protobird species were originally developed to resolve an increasing warg population problem. Someone quickly realized that adding another alpha predator doesn't help an already broken ecosystem, and the project was cancelled. Scientists then started a new development project that was aimed at making raptors the pets of rich people. Because of that, these raptors now have colorful feathers.</FRaptor.description>
+  <FRaptor.tools.0.label>left leg claw</FRaptor.tools.0.label>
+  <FRaptor.tools.1.label>right leg claw</FRaptor.tools.1.label>
+  <FRaptor.tools.2.label>left claw</FRaptor.tools.2.label>
+  <FRaptor.tools.3.label>right claw</FRaptor.tools.3.label>
+  <FRaptor.tools.5.label>head</FRaptor.tools.5.label>
+
+  <Barghest.label>Баргест</Barghest.label>
+  <Barghest.description>Призрачная собака, вид которой, по слухам, предсказывает смерть..</Barghest.description>
+  <Barghest.tools.0.label>левый коготь</Barghest.tools.0.label>
+  <Barghest.tools.1.label>правый коготь</Barghest.tools.1.label>
+  <Barghest.tools.3.label>голова</Barghest.tools.3.label>
+
+  <Thrumbo.label>Трумбо</Thrumbo.label>
+  <Thrumbo.description>Гигантское существо неизвестного происхождения. Трамбо миролюбивы по своей природе, но чрезвычайно опасны, если их разозлить. Длинный мех трамбо исключительно красив и ценен, кожа плотная и устойчивая к повреждениям, а острые как бритва рога вообще не имеют цены на большинстве рынков. Легенды гласят, что старые трамбо — самые мудрые существа во вселенной, просто они предпочитают не разговаривать.</Thrumbo.description>
+  <Thrumbo.tools.0.label>Рог</Thrumbo.tools.0.label>
+  <Thrumbo.tools.2.label>левая нога</Thrumbo.tools.2.label>
+  <Thrumbo.tools.3.label>Правая нога</Thrumbo.tools.3.label>
+  <Thrumbo.tools.4.label>голова</Thrumbo.tools.4.label>
+
+
+</LanguageData>
