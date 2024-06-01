@@ -29,7 +29,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
@@ -90,7 +90,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
@@ -152,7 +152,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
@@ -215,7 +215,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
@@ -277,7 +277,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
@@ -339,7 +339,7 @@
 			<Bulk>4</Bulk>
 			<Mass>2</Mass>
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
-			<Beauty>8</Beauty>
+			<Beauty>25</Beauty>
 		</statBases>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>

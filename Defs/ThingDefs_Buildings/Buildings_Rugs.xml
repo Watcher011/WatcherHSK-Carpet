@@ -28,7 +28,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 		<Mass>2</Mass>
-	 <Beauty>5</Beauty>
+	 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
@@ -59,7 +59,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 			<Mass>2</Mass>
-			 <Beauty>5</Beauty>
+			 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
@@ -90,7 +90,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 			<Mass>2</Mass>
-			 <Beauty>5</Beauty>
+			 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
@@ -120,7 +120,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 			<Mass>2</Mass>
-			 <Beauty>5</Beauty>
+			 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
@@ -158,7 +158,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 			<Mass>2</Mass>
-			 <Beauty>5</Beauty>
+			 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
@@ -190,7 +190,7 @@
 		<statBases>
 		<Bulk>4</Bulk>
 			<Mass>2</Mass>
-			 <Beauty>5</Beauty>
+			 <Beauty>25</Beauty>
       <Flammability>0.32</Flammability>
       <WorkToBuild>800</WorkToBuild>
       <CleaningTimeFactor>2</CleaningTimeFactor>
